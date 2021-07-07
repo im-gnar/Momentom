@@ -16,7 +16,6 @@ with vanilla JS<br>
 
 ### 🎯 요구사항
 
-
 - [ ] 사용자 이름을 입력받은 후 greeting message와 이름 출력
 - [ ] todo list에 todoItem을 키보드로 입력하여 추가
 - [ ] todo list의 x버튼을 이용해서 해당 엘리먼트를 삭제(hover로 애니메이션 주기)
