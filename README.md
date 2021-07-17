@@ -8,9 +8,7 @@ with vanilla JS<br>
   <img src="https://img.shields.io/badge/language-html-red.svg?style=flat-square"/>
   <img src="https://img.shields.io/badge/language-css-blue.svg?style=flat-square"/>
   <img src="https://img.shields.io/badge/language-VanillaJS-yellow.svg?style=flat-square"/>
-  <a href="https://github.com/next-step/js-todo-list-step1/blob/main/LICENSE" target="_blank">
-    <img src="https://img.shields.io/github/license/next-step/js-todo-list-step1.svg?style=flat-square&label=license&color=08CE5D"/>
-  </a>
+  <img src="https://img.shields.io/badge/language-GitHub Pages-08CE5D.svg?style=flat-square"/>
 </p>
 
 
